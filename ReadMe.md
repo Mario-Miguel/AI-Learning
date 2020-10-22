@@ -1,3 +1,3 @@
 # Repository to start learning AI basics
 
-I'll be using Tensorflow and Python
+Now following [Tech With Tim Tutorial](https://www.techwithtim.net/tutorials/machine-learning-python)
